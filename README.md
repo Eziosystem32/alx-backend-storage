@@ -168,11 +168,6 @@ touch ./0x02-python_async_comprehension/README.md
 cd 0x02-python_async_comprehension
 ```
 
-> [:point_right: Go to project](0x02-python_async_comprehension)
-
-
-# :man: Author and Credits.
-This project was done by [SE. Tolulope Fakunle](https://github.com/Tolulope05). Feel free to get intouch with me;
 
 :iphone: WhatsApp [+234813738316](https://wa.me/234813738316)
 
