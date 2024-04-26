@@ -137,10 +137,6 @@ Enter password:
 ERROR 1062 (23000) at line 1: Duplicate entry 'bob@dylan.com' for key 'email'
 bob@dylan:~$ 
 bob@dylan:~$ echo "SELECT * FROM users;" | mysql -uroot -p holberton
-Enter password: 
-id  email   name
-1   bob@dylan.com   Bob
-2   sylvie@dylan.com    Sylvie
 bob@dylan:~$ 
 ```
 ### :wrench: Project setup.
@@ -168,14 +164,4 @@ touch ./0x02-python_async_comprehension/README.md
 cd 0x02-python_async_comprehension
 ```
 
-> [:point_right: Go to project](0x02-python_async_comprehension)
 
-
-# :man: Author and Credits.
-This project was done by [SE. Tolulope Fakunle](https://github.com/Tolulope05). Feel free to get intouch with me;
-
-:iphone: WhatsApp [+234813738316](https://wa.me/234813738316)
-
-:email: Email [fakunletolulope05@gmail.com](mailto:fakunletolulope05@gmail.com)
-
-:thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
