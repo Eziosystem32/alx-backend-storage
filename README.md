@@ -165,8 +165,3 @@ cd 0x02-python_async_comprehension
 ```
 
 
-:iphone: WhatsApp [+234813738316](https://wa.me/234813738316)
-
-:email: Email [fakunletolulope05@gmail.com](mailto:fakunletolulope05@gmail.com)
-
-:thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
