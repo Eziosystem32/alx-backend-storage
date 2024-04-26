@@ -137,10 +137,6 @@ Enter password:
 ERROR 1062 (23000) at line 1: Duplicate entry 'bob@dylan.com' for key 'email'
 bob@dylan:~$ 
 bob@dylan:~$ echo "SELECT * FROM users;" | mysql -uroot -p holberton
-Enter password: 
-id  email   name
-1   bob@dylan.com   Bob
-2   sylvie@dylan.com    Sylvie
 bob@dylan:~$ 
 ```
 ### :wrench: Project setup.
